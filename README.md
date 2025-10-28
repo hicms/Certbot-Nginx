@@ -258,9 +258,3 @@ certbot renew --dry-run -v
 - **Certbot 官网**: https://certbot.eff.org/
 - **Let's Encrypt**: https://letsencrypt.org/
 - **Nginx SSL 配置**: https://nginx.org/en/docs/http/configuring\_https\_servers.html
-
----
-
-**文档更新**: 2025-10-28
-**实际案例**: novel.aipenman.com
-**维护者**: System Administrator
